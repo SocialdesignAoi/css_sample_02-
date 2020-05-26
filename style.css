@@ -1,5 +1,5 @@
 body {
-    background-color: silver;
+    background-color:rebeccapurple;
 }
 
 #container {
@@ -15,7 +15,7 @@ header {
 
 nav {
     padding: 8px 40px;
-    background-color: black;
+    background-color: grey；
     color: white;
 }
 
@@ -27,6 +27,6 @@ nav {
 footer {
     padding: 40px;
     height: 40px;
-    background-color : black;
+    background-color : rebeccapurple;
     color: white;
 }
